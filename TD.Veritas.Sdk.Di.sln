@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD.Veritas.Sdk.Di", "TD.Veritas.Sdk.Di\TD.Veritas.Sdk.Di.csproj", "{FF0EE6AF-589B-4E52-933E-A6C97E286345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		NugetSync|x64 = NugetSync|x64
+		NugetSync|x86 = NugetSync|x86
+		NugetSyncPat|x64 = NugetSyncPat|x64
+		NugetSyncPat|x86 = NugetSyncPat|x86
+		NugetSyncSit|x64 = NugetSyncSit|x64
+		NugetSyncSit|x86 = NugetSyncSit|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Debug|x64.ActiveCfg = Debug|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Debug|x64.Build.0 = Debug|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Debug|x86.ActiveCfg = Debug|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Debug|x86.Build.0 = Debug|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSync|x64.ActiveCfg = NugetSync|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSync|x64.Build.0 = NugetSync|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSync|x86.ActiveCfg = NugetSync|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSync|x86.Build.0 = NugetSync|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncPat|x64.ActiveCfg = NugetSyncPat|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncPat|x64.Build.0 = NugetSyncPat|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncPat|x86.ActiveCfg = NugetSyncPat|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncPat|x86.Build.0 = NugetSyncPat|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncSit|x64.ActiveCfg = NugetSyncSit|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncSit|x64.Build.0 = NugetSyncSit|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncSit|x86.ActiveCfg = NugetSyncSit|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.NugetSyncSit|x86.Build.0 = NugetSyncSit|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Release|x64.ActiveCfg = Release|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Release|x64.Build.0 = Release|x64
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Release|x86.ActiveCfg = Release|x86
+		{FF0EE6AF-589B-4E52-933E-A6C97E286345}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.2\lib\NET35;packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
